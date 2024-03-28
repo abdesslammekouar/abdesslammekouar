@@ -49,7 +49,6 @@
 ❤️ &emsp; Love writing code, learning new features, and pilot a drone<br/><br/>
 🎨 &emsp; creat Drone Show Light<br/><br/>
 🎥 &emsp; Experienced in FPV Drone Racing<br/><br/>
-📧 &emsp; Reach me anytime: a.mekouar@outlook.com<br/><br/>
 💬 &emsp; Ask me about anything [here](https://github.com/abdesslammekouar/abdesslammekouar/issues)
 
 </p>
