@@ -45,9 +45,9 @@
 <p>
 <img align="right" width="350" src="./programmer.gif" alt="Coding gif" />
 
-✌️ &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
+✌️ &emsp; Enjoy sharing knowledge <br/><br/>
 ❤️ &emsp; Love writing code, learning new features, and pilot a drone<br/><br/>
-🎨 &emsp; creat Drone Show Light<br/><br/>
+🎨 &emsp; Chief Operation Drone Show Light<br/><br/>
 🎥 &emsp; Experienced in FPV Drone Racing<br/><br/>
 💬 &emsp; Ask me about anything [here](https://github.com/abdesslammekouar/abdesslammekouar/issues)
 
